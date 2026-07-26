@@ -107,5 +107,16 @@
     "Sample",
     "org.o3de.gem.lyshineexamples",
     "Assets"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-lyshineexamples.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }
